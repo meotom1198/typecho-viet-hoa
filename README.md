@@ -1,8 +1,9 @@
 # Giới thiệu nhanh về dự án **Typecho Việt Hoá 1.2.1**
-- **Typecho Việt Hoá 1.2.1** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** thực hiện
-- Dự án *Việt Hoá Full* mã nguồn **Typecho Việt Hoá 1.2.1** cho cộng đồng wapmaster yêu thích mã nguồn **Typecho Việt Hoá** tải về => cài đặt => sử dụng+phát triển blog. Và  để **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** có thể mod thêm tính năng khác cho mã nguồn **Typecho Việt Hoá 1.2.1**.
-- Các bản cập nhật vá lỗi dành cho mã nguồn **Typecho Việt Hoá 1.2.1** được phát hành và cập nhật miễn phí tại [[Blog WapVN.Top]](https://wapvn.top/).
-- Các phiên bản **Typecho Việt Hoá** mới nhất sẽ được phát hành miễn phí tại [Blog WapVN.Top](https://wapvn.top/).
+1. **Typecho Việt Hoá 1.2.1** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** lên ý tường và thực hiện.
+2. Dự án *Việt Hoá Full* mã nguồn **Typecho Việt Hoá 1.2.1** cho cộng đồng wapmaster yêu thích mã nguồn **Typecho Việt Hoá** tải về => cài đặt => sử dụng và phát triển blog.
+3. Và để **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** có thể mod thêm tính năng khác cho mã nguồn **Typecho Việt Hoá 1.2.1**.
+4. Các bản cập nhật vá lỗi dành cho mã nguồn **Typecho Việt Hoá 1.2.1** được phát hành và cập nhật miễn phí tại [Blog WapVN.Top](https://wapvn.top/).
+5. Các bản **Typecho Việt Hoá** mới sẽ được phát hành miễn phí tại [Blog WapVN.Top](https://wapvn.top/) => [Mod Typecho](https://wapvn.top/mod-typecho/).
 
 ![Logo Blog WapVN.Top](https://wapvn.top/images/logo.png)
 # Blog Của **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** - WapVN.Top
