@@ -1,8 +1,11 @@
-![Favicon Of WapVN.Top](https://cdn.jsdelivr.net/gh/meotom1198/meo.github.io@2f7e8b9aa074e1523ebfd8d3119499b8e5725b12/images/favicon.png) ![Logo Of WapVN.Top](https://cdn.jsdelivr.net/gh/meotom1198/meo.github.io@2f7e8b9aa074e1523ebfd8d3119499b8e5725b12/images/logo.png)
+:earth_asia: ![Logo Of WapVN.Top](https://cdn.jsdelivr.net/gh/meotom1198/meo.github.io@2f7e8b9aa074e1523ebfd8d3119499b8e5725b12/images/logo.png) :earth_asia:
 
-```css
-Cảm ơn mọi người rất nhiều! Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để bắt đầu xây dựng blog/website của riêng bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, có lẽ **Mã Nguồn Typecho Việt Hoá 1.2.1** sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên đa dụng hơn nữa! **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nho nhỏ này của mình!
-```
+---
+
+- **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
+- **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
+
+---
 
 # Ⅰ. Giới Thiệu Nhanh Về Dự Án `Typecho Việt Hoá`
 1. **Typecho Việt Hoá** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do cá nhân mình (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) trực tiếp lên ý tưởng và thực hiện.
