@@ -6,46 +6,49 @@
 
 ---
 
-# Ⅰ. Giới Thiệu Nhanh Về Dự Án `Typecho Việt Hoá`
-1. **Typecho Việt Hoá** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do cá nhân mình (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) trực tiếp lên ý tưởng và thực hiện.
-2. Mục tiêu của dự án là *Việt Hoá* mã nguồn **Typecho** sạch sẽ, không còn tiếng ~~trung quốc~~ trong quá trình sử dụng
-3. Cài Đặt Mã Nguồn **Typecho Việt Hoá**:
-  1. Download **Typecho Việt Hoá 1.2.1** từ [Bài Viết: **Typecho Việt Hoá 1.2.1**](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html) hoặc Download **Typecho Gốc 1.2.1** tại **[Trang chủ của Typecho.ORG](https://typecho.org/)**.
-  2. Sau đó upload mã nguồn **Typecho Vừa Tải Về** lên hosting hoặc máy chủ, và giải nén ngang hàng với thư mục **`root`** của hosting hoặc máy chủ.
-  3. Vào `trang quản lý Database` của hosting hoặc máy chủ để tạo database.
-  4. Sau đó, bạn hãy truy cập vào `tên miền` mà bạn đang dùng để làm `tên miền chính` cho blog của bạn.
-  5. Tiếp theo, bạn sẽ được đưa đến **Cài Đặt Mã Nguồn Typecho Việt Hoá 1.2.1**.
-  6. Bạn cần điền các thông tin của database mà bạn đã tạo ở bước 3.
-  7. Điền các thông tin cơ bản cho `Blog của bạn` VD:
+# **Ⅰ. Giới Thiệu Nhanh Về `Typecho Việt Hoá`**
+1. **Typecho Việt Hoá** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do cá nhân mình (**MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) trực tiếp lên ý tưởng và thực hiện.
+2. Mục đích của dự án là *Việt Hoá* mã nguồn **Typecho** sạch sẽ, không còn tiếng ~~trung quốc~~ trong quá trình sử dụng.
+3. ******
+bạn dẽ được chạy thử nghiệm trong một thời gian ngắn để kiểm tra lỗi và phát hiện dịch thuật còn sót ở file nào chia sẻ miễn phí cho cộng đồng wapmaster của **Việt Nam**.
+5. Để MeoDiLac (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) mod thêm tính năng khác cho mã nguồn **Typecho Việt Hoá 1.2.1**.
+6. Các bản cập nhật vá lỗi dành cho mã nguồn **Typecho Việt Hoá 1.2.1** được cập nhật miễn phí tại [Blog WapVN.Top](https://wapvn.top/).
+7. Các bản **Typecho Việt Hoá** mới sẽ được phát hành miễn phí tại [Blog WapVN.Top](https://wapvn.top/) => [Mod Typecho](https://wapvn.top/mod-typecho/).
+
+# **Ⅱ. Cài Đặt Mã Nguồn Typecho Việt Hoá**
+  1. Download **Typecho Việt Hoá 1.2.1** từ [Bài Viết: **Typecho Việt Hoá 1.2.1**](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html) hoặc Download **Typecho Gốc 1.2.1** tại **[Trang chủ Typecho.ORG](https://typecho.org/)**.
+  2. Sau đó upload mã nguồn **Typecho Vừa Tải Về** lên hosting hoặc máy chủ
+  3. Giải nén ngang hàng với thư mục **`root`** của hosting hoặc máy chủ.
+  4. Vào `trang quản lý Database` của hosting hoặc máy chủ để tạo database.
+  5. Sau đó, bạn hãy truy cập vào `tên miền` mà bạn đang dùng để làm `tên miền chính` cho blog của bạn.
+  6. Tiếp theo, bạn sẽ được đưa đến **Cài Đặt Mã Nguồn Typecho Việt Hoá 1.2.1**.
+  7. Bạn cần điền các thông tin của database mà bạn đã tạo ở bước **4**.
+  8. Điền các thông tin cơ bản cho `Blog của bạn` VD:
      * Tên miền của blog
      * Tiêu đề blog
      * Từ khoá của blog
      * Mô tả của blog
      * v.v..
-  8. Tiếp, bạn cần phải điền thông tin cho tài khoản `Quản trị viên`, hãy **GHI NHỚ THÔNG TIN TÀI KHOẢN** mà bạn vừa điền, vì tài khoản đó có quyền *quản lý toàn bộ dữ liệu của blog*, vì thế nên tránh *để lộ info* của tài khoản `Quản trị viên` nhé!
-  9. Rồi, bạn có thể chọn một trong hai liên kết bên dưới:
-     * **Vào bảng điều khiển**, để bắt đầu tuỳ biến blog của bạn ngay.
-     * **Xem thử blog**, để xem thử blog mà bạn vừa cài đặt.
-  10. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về Mã Nguồn **Typecho Việt Hoá**, hay liên hệ với mình để được hỗ trợ nhé?
-  11. [Liên hệ với **Luyện Phạm**](https://wapvn.top/p-contact/), hoặc gọi ngay `0899726669- Em Luyện`.
-bạn dẽ được chạy thử nghiệm trong một thời gian ngắn để kiểm tra lỗi và phát hiện dịch thuật còn sót ở file nào chia sẻ miễn phí cho cộng đồng wapmaster của **Việt Nam**.
-5. Để mình (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) mod thêm tính năng khác cho mã nguồn **Typecho Việt Hoá 1.2.1**.
-6. Các bản cập nhật vá lỗi dành cho mã nguồn **Typecho Việt Hoá 1.2.1** được cập nhật miễn phí tại [Blog WapVN.Top](https://wapvn.top/).
-7. Các bản **Typecho Việt Hoá** mới sẽ được phát hành miễn phí tại [Blog WapVN.Top](https://wapvn.top/) => [Mod Typecho](https://wapvn.top/mod-typecho/).
+  9. Tiếp, bạn cần phải điền thông tin cho tài khoản `Quản trị viên` (Hãy **GHI NHỚ THÔNG TIN TÀI KHOẢN** mà bạn vừa điền, vì tài khoản đó có quyền *quản lý toàn bộ dữ liệu của blog*), nên tránh *để lộ info* của tài khoản `Quản trị viên` nhé!
+  10. Rồi, bạn có thể chọn một trong hai liên kết sau khi đã hoàn thnahf bước thiết lập tài khoản `Quản trị viên`, sau đó bạn có 2 liên kết:
+     * **Vào bảng điều khiển**, bấm để bắt đầu tuỳ biến blog của bạn ngay.
+     * **Xem thử blog**, bấm để xem thử blog mà bạn vừa cài đặt xong.
+  11. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về **Mã Nguồn Typecho Việt Hoá**, hãy liên hệ với mình để được hỗ trợ nhé?
+  12. [Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://wapvn.top/p-contact/)**, hoặc gọi ngay `0899726669 - Em **MeoDiLac**`
 
-# Ⅱ. Blog Cá Nhân Của Luyện Pham - WapVN.Top
+## **Ⅲ. Blog WapVN.Top**
 - WapVN.Top chỉ đơn giản là một blog cá nhân, chia sẻ code, tin tức, font chữ, source php,... và hỗ trợ những ai *đã* và *đang* sử dụng **Typecho Việt Hoá 1.2.1**.
 - Tại đây, các bài viết share các bộ code, source code, code hay, tempalte html đẹp, cho các Wapmaster, hướng dẫn mod code
 - Tại đây, mình cũng hỗ trợ những ai **đã** và **đang** sử dụng mã nguồn **Typecho Việt Hoá** mà mình đã chia sẻ.
 
-## Ⅲ. Thông Tin Về **Typecho Việt Hoá 1.2.1**
+## **Ⅳ.Thông Tin Về Typecho Việt Hoá 1.2.1**
 - **Typecho Việt Hoá 1.2.1** là một bộ mã nguồn cực nhẹ nhàng, giúp bạn tạo một website theo phong cách blog cá nhân.
 - **Typecho Việt Hoá 1.2.1** được xây dụng dựa trên *PHP* và được thiết kế để giúp bạn tạo một website theo phong cách blog cá nhân.
 - **Typecho Việt Hoá 1.2.1** có tốc độ load cực nhanh, nếu so sánh với các mã nguồn tạo blog cá nhân được các wapmaster trên toàn thế giới lựa chọn.
 - **Typecho Việt Hoá 1.2.1** là dự án *Cá nhân* được thực hiện và duy trì bởi **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**.
 - **Typecho Việt Hoá 1.2.1** được phát hành và cập nhật miễn phí tại [Blog WapVN.Top](https://wapvn.top/).
 
-## Ⅳ. Tổng Hợp Các Phiên Bản **Typecho** Đang Chia Sẻ Tại Blog WapVN.Top
+## **Ⅴ. Tổng Hợp **Typecho** Đang Được Chia Sẻ Tại Blog WapVN.Top**
 - **Typecho Việt Hoá 1.2.1**
   1. [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
   2. [Trang chủ - WapVN.TOP](https://wapvn.top/)
@@ -59,7 +62,7 @@ bạn dẽ được chạy thử nghiệm trong một thời gian ngắn để k
   2. [Trang chủ - Typecho.ORG](https://typecho.org/)
   3. Đây là bản gốc tại trang chủ [Typecho.ORG](https://typecho.org/) (Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả)
 
-## Ⅴ. Tính Năng Chính
+## **Ⅵ. Tính Năng Chính**
 * Hỗ trợ các loại database dưới đây:
   - MySQL
   - SQLite
@@ -70,21 +73,21 @@ bạn dẽ được chạy thử nghiệm trong một thời gian ngắn để k
 * Tùy chỉnh URL (Bạn có thể tuỳ chỉnh *liên kết* của bài viết, các danh mục và các trang độc lập, với mức tuỳ biến URL cao ~~ngang với Wordpress~~ 😂)
 * Tuỳ chỉnh trang độc lập (Bạn có thể tuỳ biến các trang độc lập với các mục đích khác nhau)
 
-## Ⅵ. Yêu Cầu Hệ Thống
+## **Ⅶ. Yêu Cầu Hệ Thống**
 * Phải chạy từ PHP 7.4.0 trở lên
 * Database, tương thích với những database sau đây:
   * MySQL 5.5.3 ^
   * SQLite 3.7.11 ^
   * PostgreSQL 9.1 ^
 
-## Ⅶ. Ảnh Chụp Màn Hình
+## **Ⅷ. Ảnh Chụp Màn Hình**
 ![Typecho Việt Hoá 1.2.1](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
 
-## Ⅷ. Liên Hệ & Hỗ Trợ
+## **Ⅸ. Liên Hệ & Hỗ Trợ**
 * [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
 * [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
 
-## Ⅸ. Ủng Hộ & Donate
+## **Ⅹ. Ủng Hộ & Donate**
 * Nếu các bạn muốn *Ủng Hộ* hoặc *Donate* cho dự án nho nhỏ này của mình thì chỉ cần ủng hộ **10k ~ chai Sting** là được rồi, mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ đâu.
 * Nhưng mếu muốn, bạn vẫn có thể *Ủng Hộ* hoặc *Donate* bằng các hình thức dưới đây:
   1. **Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
