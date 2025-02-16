@@ -1,6 +1,6 @@
 :arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:  :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
 
-# :arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia:  ᕕ༼✪ل͜✪༽ᕗ ωεℓ૮σɱε ƭσ ωαρѵɳ.ƭσρ ᕗ༼✪ل͜✪༽ᕕ  :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
+# :arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: ωεℓ૮σɱε ƭσ ωαρѵɳ.ƭσρ :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
 
 :arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:  :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
 
