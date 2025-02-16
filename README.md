@@ -33,7 +33,7 @@
      * **Vào bảng điều khiển**, bấm để bắt đầu tuỳ biến blog của bạn ngay.
      * **Xem thử blog**, bấm để xem thử blog mà bạn vừa cài đặt xong.
   11. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về **Mã Nguồn Typecho Việt Hoá**, hãy liên hệ với mình để được hỗ trợ nhé?
-  12. [Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://wapvn.top/p-contact/)**, hoặc gọi ngay `0899726669 - Em **MeoDiLac**`
+  12. [Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://wapvn.top/p-contact/)**, hoặc gọi ngay **`0899726669 - Em MeoDiLac`**
 
 ## **Ⅲ. Thông Tin Về Typecho Việt Hoá 1.2.1** :cat:
 - Đây là một bộ mã nguồn cực nhẹ nhàng, giúp bạn tạo một website theo phong cách blog cá nhân.
