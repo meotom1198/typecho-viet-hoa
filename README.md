@@ -109,8 +109,8 @@
 ---
 
 ## **Ⅶ. :telephone: Liên Hệ & Hỗ Trợ**
-* :heavy_check_mark: [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
-* :heavy_check_mark: [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
+* [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
+* [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
 
 ---
 
@@ -118,11 +118,11 @@
 * Nếu các bạn muốn *Ủng Hộ* hoặc *Donate* cho dự án nhỏ này thì mình chỉ cần ủng hộ **10k ~ chai Sting** là được rồi!
 * Mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ nhiều.
 * Nhưng nếu, bạn vẫn muốn *Ủng Hộ* thì bạn vẫn có thể *Donate* bằng các hình thức dưới đây:
-  1. **:heavy_check_mark: Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
-  2. **:heavy_check_mark: Ngân hàng Thương Mại Cổ phần Tiên Phong - TPBank - 00004947566 - Pham Dinh Luyen**
-  3. **:heavy_check_mark: Ngân hàng TMCP Phương Đông OCB - LioBank - 1001001998 - Pham Dinh Luyen**
-  4. **:heavy_check_mark: ZaloPay - 0332585704 - Luyện**
-  5. **:heavy_check_mark: PayPal - songao.1198@gmail.com - Phạm Đình Luyện**
+  1. **Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
+  2. **Ngân hàng Thương Mại Cổ phần Tiên Phong - TPBank - 00004947566 - Pham Dinh Luyen**
+  3. **Ngân hàng TMCP Phương Đông OCB - LioBank - 1001001998 - Pham Dinh Luyen**
+  4. **ZaloPay - 0332585704 - Luyện**
+  5. **PayPal - songao.1198@gmail.com - Phạm Đình Luyện**
 * Mình có nói là **KHÔNG CẦN MỌI NGƯỜI DONATE** cho mình :disappointed_relieved:. Nhưng nếu được ai đó **Donate 10k** với nội dung ghi chú là *co gang duy tri du an Typecho Viet Hoa nhe?* thì quá tuyệt vời :wink:, chỉ cần vậy thôi là động lực X1000 lần rồi :wink:!
 * Mình sẽ tiếp tục duy trì dự án này đến khi mình không còn khả năng duy trì nữa thì mình mới bỏ dự án này nhé :stuck_out_tongue:!
 
