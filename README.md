@@ -2,6 +2,7 @@
 ---
 
 - **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
+- **[Xem Trang Blog Demo](https://www.wapvn.top)**
 - **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
 
 ---
@@ -52,36 +53,38 @@
 1. **Typecho Việt Hoá 1.2.1**
   * [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
   * [Trang chủ - WapVN.TOP](https://wapvn.top/)
-  * Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (Vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình đã **KHÔNG VIỆT HOÁ** những file đó).
+  * Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình **KHÔNG VIỆT HOÁ** những file đó).
+
 2. **Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
   * [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
   * Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
   * Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
+
 3. **Typecho Gốc 1.2.1**
   * [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
   * [Trang chủ - Typecho.ORG](https://typecho.org/)
-  * Đây là bản gốc tại trang chủ [Typecho.ORG](https://typecho.org/) (Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả)
+  * Đây là bản gốc tại [Typecho.ORG](https://typecho.org/) Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả.
 
 ## **Ⅵ. Tính Năng Chính** :partly_sunny:
-* Hỗ trợ các loại database dưới đây:
+* Hỗ trợ các loại database sau đây:
   - MySQL
   - SQLite
   - PostgreSQL
-* Biên soạn với Markdown (Khi bạn viết **Bài viết mới** và **Tạo trang mới** thì bạn có thể sử dụng cú pháp Markdown khi biên soạn).
-* Hỗ trợ plugin (*Thêm, Kích hoạt, Cài đặt, Tắt* các plugin cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/plugins**)
-* Hỗ trợ giao diện (*Thêm, Kích hoạt, Cài đặt, Tắt* các giao diện cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/themes**)
+* Viết với Markdown (Khi bạn viết **Bài viết mới** và **Tạo trang mới** thì bạn có thể sử dụng cú pháp Markdown khi biên soạn).
+* Plugin (*Thêm, Kích hoạt, Cài đặt, Tắt* các plugin cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/plugins**)
+* Giao diện (*Thêm, Kích hoạt, Cài đặt, Tắt* các giao diện cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/themes**)
 * Tùy chỉnh URL (Bạn có thể tuỳ chỉnh *liên kết* của bài viết, các danh mục và các trang độc lập, với mức tuỳ biến URL cao ~~ngang với Wordpress~~ 😂)
 * Tuỳ chỉnh trang độc lập (Bạn có thể tuỳ biến các trang độc lập với các mục đích khác nhau)
 
 ## **Ⅶ. Yêu Cầu Hệ Thống** :slot_machine:
-* Phải chạy từ PHP 7.4.0 trở lên
-* Database, tương thích với những database sau đây:
-  * MySQL 5.5.3 ^
-  * SQLite 3.7.11 ^
-  * PostgreSQL 9.1 ^
+* Chạy từ PHP 7.4.0 trở lên
+* Database, tương thích với các database sau đây:
+  1. MySQL 5.5.3 trở lên.
+  2. SQLite 3.7.11 trở lên.
+  3. PostgreSQL 9.1 trở lên.
 
 ## **Ⅷ. Ảnh Chụp Màn Hình** :camera:
-![Typecho Việt Hoá 1.2.1](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
+![Typecho Việt Hoá](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
 
 ## **Ⅸ. Liên Hệ & Hỗ Trợ** :telephone:
 * [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
