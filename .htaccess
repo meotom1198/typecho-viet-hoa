@@ -1,0 +1,9 @@
+# WapVN.Top Là Một Blog Cá Nhân, Chuyên Hỗ Trợ Typecho Việt Hoá, Chuyên Chia Sẻ Code, Chia Sẻ Mã Nguồn, Code PHP Script, Nhạc, Meme, Font Chữ Đẹp, Typecho Việt Hoá 1.2.1, Typecho Việt Hoá
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php/$1 [L]
+</IfModule>
