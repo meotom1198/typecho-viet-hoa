@@ -53,7 +53,8 @@
      * **Xem thử blog**, bấm để xem thử blog mà bạn vừa cài đặt xong.
   11. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về **Mã Nguồn Typecho Việt Hoá**, hãy liên hệ với mình để được hỗ trợ nhé?
   12. Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://www.facebook.com/cu.ti.9212)** tại **[ĐÂY](https://wapvn.top/p-contact/)**, hoặc gọi ngay **`0899726669 - Em MeoDiLac`**.
-### ** 2. :heavy_check_mark: Thông Tin Thêm Về Dự Án**
+
+### **2. :heavy_check_mark: Thông Tin Thêm Về Dự Án**
 - Đây là bộ mã nguồn cực kì nhẹ nhàng (nặng ~1mb), nhưng nó có thể giúp bạn tạo một website/blog cá nhân nhanh chóng, và dễ dàng làm quen và sử dụng.
 - Được xây dụng dựa với *PHP* và được thiết kế để giúp người dùng có thể nhanh chóng tạo được website/blog cá nhân của họ.
 - Tốc độ load nhanh, nếu so sánh với các mã nguồn tạo blog khác thì **Typecho Việt Hoá 1.2.1** có tốc độ load cực tốt.
