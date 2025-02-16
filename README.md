@@ -48,7 +48,7 @@
      * **Xem thử blog**, bấm để xem thử blog mà bạn vừa cài đặt xong.
   11. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về **Mã Nguồn Typecho Việt Hoá**, hãy liên hệ với mình để được hỗ trợ nhé?
   12. Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://www.facebook.com/cu.ti.9212)** tại **[ĐÂY](https://wapvn.top/p-contact/)**, hoặc gọi ngay **`0899726669 - Em MeoDiLac`**.
-### Thông Tin Thêm Về Dự Án**
+### **Thông Tin Thêm Về Dự Án**
 - Đây là bộ mã nguồn cực kì nhẹ nhàng (nặng ~1mb), nhưng nó có thể giúp bạn tạo một website/blog cá nhân nhanh chóng, và dễ dàng làm quen và sử dụng.
 - Được xây dụng dựa với *PHP* và được thiết kế để giúp người dùng có thể nhanh chóng tạo được website/blog cá nhân của họ.
 - Tốc độ load nhanh, nếu so sánh với các mã nguồn tạo blog khác thì **Typecho Việt Hoá 1.2.1** có tốc độ load cực tốt.
@@ -58,26 +58,25 @@
 
 ---
 
-## **Ⅳ. :raising_hand: 
-## **Ⅴ. :ok_hand: Các Bản Typecho Đang Share Tại WapVN.Top**
-1. **Typecho Việt Hoá 1.2.1**
-  * [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
-  * [Trang chủ - WapVN.TOP](https://wapvn.top/)
-  * Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình **KHÔNG VIỆT HOÁ** những file đó).
+## **Ⅳ. :ok_hand: Các Bản Typecho Đang Share Tại WapVN.Top**
+### **Typecho Việt Hoá 1.2.1**
+    * [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
+    * [Trang chủ - WapVN.TOP](https://wapvn.top/)
+    * Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình **KHÔNG VIỆT HOÁ** những file đó).
 
-2. **Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
-  * [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
-  * Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
-  * Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
+### **Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
+    * [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
+    * Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
+    * Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
 
-3. **Typecho Gốc 1.2.1**
-  * [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
-  * [Trang chủ - Typecho.ORG](https://typecho.org/)
-  * Đây là bản gốc tại [Typecho.ORG](https://typecho.org/) Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả.
+### **Typecho Gốc 1.2.1**
+    * [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
+    * [Trang chủ - Typecho.ORG](https://typecho.org/)
+    * Đây là bản gốc tại [Typecho.ORG](https://typecho.org/) Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả.
 
 ---
-
-## **Ⅵ. :globe_with_meridians: Tính Năng Chính**
+  
+## **Ⅴ. :globe_with_meridians: Tính Năng Chính**
 * Hỗ trợ các loại database sau đây:
   - MySQL
   - SQLite
@@ -90,7 +89,7 @@
 
 ---
 
-## **Ⅶ. :memo: Yêu Cầu Hệ Thống** :slot_machine:
+## **Ⅵ. :memo: Yêu Cầu Hệ Thống**
 * Chạy từ PHP 7.4.0 trở lên
 * Database, tương thích với các database sau đây:
   1. MySQL 5.5.3 trở lên.
@@ -99,6 +98,13 @@
 
 ---
 
+
+
+
+
+
+## **Ⅵ.  :raising_hand:
+## **Ⅶ. 
 ## **Ⅷ. :camera: Ảnh Chụp Màn Hình**
 ![Typecho Việt Hoá](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
 
