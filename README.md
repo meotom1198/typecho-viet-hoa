@@ -66,19 +66,17 @@
 
 ## **Ⅳ. :ok_hand: Các Bản Typecho Đang Share Tại WapVN.Top**
 **1. Typecho Việt Hoá 1.2.1**
-  - [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
-  - [Trang chủ - WapVN.TOP](https://wapvn.top/)
-  - Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình **KHÔNG VIỆT HOÁ** những file đó).
-
+  * [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
+  * [Trang chủ - WapVN.TOP](https://wapvn.top/)
+  * Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình **KHÔNG VIỆT HOÁ** những file đó)
 **2. Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
-  - [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
-  - Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
-  - Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
-
+  * [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
+  * Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
+  * Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
 **3. Typecho Gốc 1.2.1**
-  - [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
-  - [Trang chủ - Typecho.ORG](https://typecho.org/)
-  - Đây là bản gốc tại [Typecho.ORG](https://typecho.org/) Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả.
+  * [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
+  * [Trang chủ - Typecho.ORG](https://typecho.org/)
+  * Đây là bản gốc tại [Typecho.ORG](https://typecho.org/) Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả.
 
 ---
   
