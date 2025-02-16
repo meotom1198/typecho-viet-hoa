@@ -8,8 +8,8 @@
 
 # **:wave: WapVN.Top - Blog Đa Phương Tiện - Hỗ Trợ Wapmaster/Webmaster :wave:**
 1. **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
-2. ** [Xem Trang Blog Demo](https://www.wapvn.top)** 
-3. ** [MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
+2. **[Xem Trang Blog Demo](https://www.wapvn.top)** 
+3. **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
 
 ---
 
@@ -85,9 +85,9 @@
   
 ## **Ⅴ. :globe_with_meridians: Tính Năng Chính**
 * Hỗ trợ các loại database sau đây:
-  - MySQL
-  - SQLite
-  - PostgreSQL
+  1. MySQL
+  2. SQLite
+  3. PostgreSQL
 * Viết với Markdown (Khi bạn viết **Bài viết mới** và **Tạo trang mới** thì bạn có thể sử dụng cú pháp Markdown khi biên soạn).
 * Plugin (*Thêm, Kích hoạt, Cài đặt, Tắt* các plugin cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/plugins**)
 * Giao diện (*Thêm, Kích hoạt, Cài đặt, Tắt* các giao diện cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/themes**)
@@ -112,20 +112,20 @@
 ---
 
 ## **Ⅶ. :telephone: Liên Hệ & Hỗ Trợ**
-* [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
-* [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
+* **[Ghé Thăm Blog WapVN.Top](https://wapvn.top/)** 
+* **[Liên hệ hỗ trợ](https://wapvn.top/p-contact/)**
 
 ---
 
 ## **Ⅷ. :pound: Ủng Hộ & Donate**
-* Nếu các bạn muốn *Ủng Hộ* hoặc *Donate* cho dự án nhỏ này thì mình chỉ cần ủng hộ **10k ~ chai Sting** là được rồi!
-* Mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ nhiều.
+* Nếu các bạn muốn *Ủng Hộ* dự án nhỏ này thì mình chỉ cần ủng hộ mình **10k ~ chai Sting** là được rồi :grin:!
+* Mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ nhiều :sunglasses:.
 * Nhưng nếu, bạn vẫn muốn *Ủng Hộ* thì bạn vẫn có thể *Donate* bằng các hình thức dưới đây:
-  1. **Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
-  2. **Ngân hàng Thương Mại Cổ phần Tiên Phong - TPBank - 00004947566 - Pham Dinh Luyen**
-  3. **Ngân hàng TMCP Phương Đông OCB - LioBank - 1001001998 - Pham Dinh Luyen**
-  4. **ZaloPay - 0332585704 - Luyện**
-  5. **PayPal - songao.1198@gmail.com - Phạm Đình Luyện**
+  1. **:one: Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
+  2. **:two: Ngân hàng Thương Mại Cổ phần Tiên Phong - TPBank - 00004947566 - Pham Dinh Luyen**
+  3. **:three: Ngân hàng TMCP Phương Đông OCB - LioBank - 1001001998 - Pham Dinh Luyen**
+  4. **:four: ZaloPay - 0332585704 - Luyện**
+  5. **:five: PayPal - songao.1198@gmail.com - Phạm Đình Luyện**
 * Mình có nói là **KHÔNG CẦN MỌI NGƯỜI DONATE** cho mình :disappointed_relieved:. Nhưng nếu được ai đó **Donate 10k** với nội dung ghi chú là *co gang duy tri du an Typecho Viet Hoa nhe?* thì quá tuyệt vời :wink:, chỉ cần vậy thôi là động lực X1000 lần rồi :wink:!
 * Mình sẽ tiếp tục duy trì dự án này đến khi mình không còn khả năng duy trì nữa thì mình mới bỏ dự án này nhé :stuck_out_tongue:!
 
