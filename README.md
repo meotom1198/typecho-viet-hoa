@@ -84,24 +84,24 @@
 ---
   
 ## **Ⅴ. :globe_with_meridians: Tính Năng Chính**
-* Hỗ trợ các loại database sau đây:
-  1. MySQL
-  2. SQLite
-  3. PostgreSQL
-* Viết với Markdown (Khi bạn viết **Bài viết mới** và **Tạo trang mới** thì bạn có thể sử dụng cú pháp Markdown khi biên soạn).
-* Plugin (*Thêm, Kích hoạt, Cài đặt, Tắt* các plugin cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/plugins**)
-* Giao diện (*Thêm, Kích hoạt, Cài đặt, Tắt* các giao diện cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/themes**)
-* Tùy chỉnh URL (Bạn có thể tuỳ chỉnh *liên kết* của bài viết, các danh mục và các trang độc lập, với mức tuỳ biến URL cao ~~ngang với Wordpress~~ 😂)
-* Tuỳ chỉnh trang độc lập (Bạn có thể tuỳ biến các trang độc lập với các mục đích khác nhau)
+1. Hỗ trợ các loại database sau đây:
+  * MySQL
+  * SQLite
+  * PostgreSQL
+2. Viết với Markdown (Khi bạn viết **Bài viết mới** và **Tạo trang mới** thì bạn có thể sử dụng cú pháp Markdown khi biên soạn).
+3. Plugin (*Thêm, Kích hoạt, Cài đặt, Tắt* các plugin cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/plugins**)
+4. Giao diện (*Thêm, Kích hoạt, Cài đặt, Tắt* các giao diện cho mã nguồn **Typecho Việt Hoá 1.2.1** mà bạn đã tải lên vào thư mục **/root/usr/themes**)
+5. Tùy chỉnh URL (Bạn có thể tuỳ chỉnh *liên kết* của bài viết, các danh mục và các trang độc lập, với mức tuỳ biến URL cao ~~ngang với Wordpress~~ 😂)
+6. Tuỳ chỉnh trang độc lập (Bạn có thể tuỳ biến các trang độc lập với các mục đích khác nhau)
 
 ---
 
 ## **Ⅵ. :memo: Yêu Cầu Hệ Thống**
-  * Chạy từ PHP 7.4.0 trở lên.
-  * Database, tương thích với các database sau đây:
-    1. MySQL 5.5.3 trở lên.
-    2. SQLite 3.7.11 trở lên.
-    3. PostgreSQL 9.1 trở lên.
+  1. Chạy từ PHP 7.4.0 trở lên.
+  2. Database, tương thích với các database sau đây:
+     * MySQL 5.5.3 trở lên.
+     * SQLite 3.7.11 trở lên.
+     * PostgreSQL 9.1 trở lên.
 
 ---
 
@@ -118,16 +118,16 @@
 ---
 
 ## **Ⅷ. :pound: Ủng Hộ & Donate**
-* Nếu các bạn muốn *Ủng Hộ* dự án nhỏ này thì mình chỉ cần ủng hộ mình **10k ~ chai Sting** là được rồi :grin:!
-* Mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ nhiều :sunglasses:.
-* Nhưng nếu, bạn vẫn muốn *Ủng Hộ* thì bạn vẫn có thể *Donate* bằng các hình thức dưới đây:
-  1. **:one: Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
-  2. **:two: Ngân hàng Thương Mại Cổ phần Tiên Phong - TPBank - 00004947566 - Pham Dinh Luyen**
-  3. **:three: Ngân hàng TMCP Phương Đông OCB - LioBank - 1001001998 - Pham Dinh Luyen**
-  4. **:four: ZaloPay - 0332585704 - Luyện**
-  5. **:five: PayPal - songao.1198@gmail.com - Phạm Đình Luyện**
-* Mình có nói là **KHÔNG CẦN MỌI NGƯỜI DONATE** cho mình :disappointed_relieved:. Nhưng nếu được ai đó **Donate 10k** với nội dung ghi chú là *co gang duy tri du an Typecho Viet Hoa nhe?* thì quá tuyệt vời :wink:, chỉ cần vậy thôi là động lực X1000 lần rồi :wink:!
-* Mình sẽ tiếp tục duy trì dự án này đến khi mình không còn khả năng duy trì nữa thì mình mới bỏ dự án này nhé :stuck_out_tongue:!
+1. Nếu các bạn muốn *Ủng Hộ* dự án nhỏ này thì mình chỉ cần ủng hộ mình **10k ~ chai Sting** là được rồi :grin:!
+2. Mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ nhiều :sunglasses:.
+3. Nhưng nếu, bạn vẫn muốn *Ủng Hộ* thì bạn vẫn có thể *Donate* bằng các hình thức dưới đây:
+  * :one: **Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
+  * :two: **Ngân hàng Thương Mại Cổ phần Tiên Phong - TPBank - 00004947566 - Pham Dinh Luyen**
+  * :three: **Ngân hàng TMCP Phương Đông OCB - LioBank - 1001001998 - Pham Dinh Luyen**
+  * :four: **ZaloPay - 0332585704 - Luyện**
+  * :five: **PayPal - songao.1198@gmail.com - Phạm Đình Luyện**
+4. Mình có nói là **KHÔNG CẦN MỌI NGƯỜI DONATE** cho mình :disappointed_relieved:. Nhưng nếu được ai đó **Donate 10k** với nội dung ghi chú là *co gang duy tri du an Typecho Viet Hoa nhe?* thì quá tuyệt vời :wink:, chỉ cần vậy thôi là động lực X1000 lần rồi :wink:!
+5. Mình sẽ tiếp tục duy trì dự án này đến khi mình không còn khả năng duy trì nữa thì mình mới bỏ dự án này nhé :stuck_out_tongue:!
 
 ---
 
