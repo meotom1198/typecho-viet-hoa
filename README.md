@@ -1,14 +1,14 @@
-:arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: **WapVN.Top** :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
+:arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
 
 ---
-
+# **WapVN.Top**
 * :round_pushpin: **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
 * :round_pushpin: **[Xem Trang Blog Demo](https://www.wapvn.top)**
 * :round_pushpin: **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
 
 ---
 
-# **Ⅰ. :hammer: Giới Thiệu Nhanh Về `Typecho Việt Hoá`**
+## **Ⅰ. :hammer: Giới Thiệu Nhanh Về `Typecho Việt Hoá`**
 1. **Typecho Việt Hoá** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do cá nhân mình (a.k.a **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) trực tiếp lên ý tưởng và thực hiện.
 2. Mục đích của dự án là *Việt Hoá* mã nguồn **Typecho** sạch sẽ, không còn tiếng ~~trung quốc~~ trong quá trình sử dụng.
 3. Chỉ cần có thêm thời gian, để mình (a.k.a **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) mod thêm các tính năng khác cho mã nguồn **Typecho Việt Hoá 1.2.1**.
