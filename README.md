@@ -2,7 +2,7 @@
 
 ---
 # **WapVN.Top - Blog Đa Phương Tiện - Hỗ Trợ Wapmaster/Webmaster**
-## **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
+1. **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
 2. **[Xem Trang Blog Demo](https://www.wapvn.top)**
 3. **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
 
@@ -17,7 +17,18 @@
 
 ---
 
-## **Ⅱ. :arrow_right_hook: Cài Đặt Mã Nguồn Typecho Việt Hoá**
+## **Ⅱ. :earth_americas: Blog WapVN.Top**
+- Hỗ trợ những ai *đã* và *đang* sử dụng **Typecho Việt Hoá 1.2.1**.
+- Chỉ là một blog cá nhân, chia sẻ những thứ mà **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** sưu tầm được
+- Share các bộ code, tin tức, font chữ, source php, nhạc, video meme,v.v...
+- Chia sẻ các bộ code, source code, code hay, tempalte html đẹp, cho các Wapmaster, hướng dẫn mod các loại code.
+- Mình sẽ hỗ trợ những ai **đã** và **đang** sử dụng mã nguồn **Typecho Việt Hoá** mà mình đã chia sẻ tại [WapVN.Top](https://wapvn.top/) (nếu tải ở trang khác thì mình xin phép **KHÔNG HỖ TRỢ**).
+
+---
+
+### **Ⅲ. :arrow_right_hook: Cài Đặt Mã Nguồn Typecho Việt Hoá**
+
+### **Các bước tiến hành**
   1. Download **Typecho Việt Hoá 1.2.1** từ [Bài Viết: **Typecho Việt Hoá 1.2.1**](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html) hoặc Download **Typecho Gốc 1.2.1** tại **[Trang chủ Typecho.ORG](https://typecho.org/)**.
   2. Sau đó upload mã nguồn **Typecho Vừa Tải Về** lên hosting hoặc máy chủ
   3. Giải nén ngang hàng với thư mục **`root`** của hosting hoặc máy chủ.
@@ -36,11 +47,8 @@
      * **Vào bảng điều khiển**, bấm để bắt đầu tuỳ biến blog của bạn ngay.
      * **Xem thử blog**, bấm để xem thử blog mà bạn vừa cài đặt xong.
   11. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về **Mã Nguồn Typecho Việt Hoá**, hãy liên hệ với mình để được hỗ trợ nhé?
-  12. Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://www.facebook.com/cu.ti.9212)** tại **[ĐÂY](https://wapvn.top/p-contact/)**, hoặc gọi ngay **`0899726669 - Em MeoDiLac`**
-
----
-
-## **Ⅲ. :raising_hand: Thông Tin Thêm Về Dự Án**
+  12. Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://www.facebook.com/cu.ti.9212)** tại **[ĐÂY](https://wapvn.top/p-contact/)**, hoặc gọi ngay **`0899726669 - Em MeoDiLac`**.
+### Thông Tin Thêm Về Dự Án**
 - Đây là bộ mã nguồn cực kì nhẹ nhàng (nặng ~1mb), nhưng nó có thể giúp bạn tạo một website/blog cá nhân nhanh chóng, và dễ dàng làm quen và sử dụng.
 - Được xây dụng dựa với *PHP* và được thiết kế để giúp người dùng có thể nhanh chóng tạo được website/blog cá nhân của họ.
 - Tốc độ load nhanh, nếu so sánh với các mã nguồn tạo blog khác thì **Typecho Việt Hoá 1.2.1** có tốc độ load cực tốt.
@@ -50,15 +58,7 @@
 
 ---
 
-## **Ⅳ. :earth_americas: Blog WapVN.Top**
-- Hỗ trợ những ai *đã* và *đang* sử dụng **Typecho Việt Hoá 1.2.1**.
-- Chỉ là một blog cá nhân, chia sẻ những thứ mà **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** sưu tầm được
-- Share các bộ code, tin tức, font chữ, source php, nhạc, video meme,v.v...
-- Chia sẻ các bộ code, source code, code hay, tempalte html đẹp, cho các Wapmaster, hướng dẫn mod các loại code.
-- Mình sẽ hỗ trợ những ai **đã** và **đang** sử dụng mã nguồn **Typecho Việt Hoá** mà mình đã chia sẻ tại [WapVN.Top](https://wapvn.top/) (nếu tải ở trang khác thì mình xin phép **KHÔNG HỖ TRỢ**).
-
----
-
+## **Ⅳ. :raising_hand: 
 ## **Ⅴ. :ok_hand: Các Bản Typecho Đang Share Tại WapVN.Top**
 1. **Typecho Việt Hoá 1.2.1**
   * [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
