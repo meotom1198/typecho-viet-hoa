@@ -6,14 +6,14 @@
 
 ---
 
-# **Ⅰ. Giới Thiệu Nhanh Về `Typecho Việt Hoá`**
+# **Ⅰ. Giới Thiệu Nhanh Về `Typecho Việt Hoá`** :cat:
 1. **Typecho Việt Hoá** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do cá nhân mình (a.k.a **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) trực tiếp lên ý tưởng và thực hiện.
 2. Mục đích của dự án là *Việt Hoá* mã nguồn **Typecho** sạch sẽ, không còn tiếng ~~trung quốc~~ trong quá trình sử dụng.
 3. Để mình (a.k.a **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) mod thêm các tính năng mới cho mã nguồn **Typecho Việt Hoá 1.2.1**.
 4. Các bản cập nhật vá lỗi dành cho mã nguồn **Typecho Việt Hoá 1.2.1** được đăng tải tại [WapVN.Top](https://wapvn.top/).
 5. Các bản **Typecho Việt Hoá** từ đây về sau, khi **VIỆT HOÁ XONG** sẽ được phát hành miễn phí tại [WapVN.Top](https://wapvn.top/) => [Mod Typecho](https://wapvn.top/mod-typecho/).
 
-# **Ⅱ. Cài Đặt Mã Nguồn Typecho Việt Hoá**
+# **Ⅱ. Cài Đặt Mã Nguồn Typecho Việt Hoá** :cat:
   1. Download **Typecho Việt Hoá 1.2.1** từ [Bài Viết: **Typecho Việt Hoá 1.2.1**](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html) hoặc Download **Typecho Gốc 1.2.1** tại **[Trang chủ Typecho.ORG](https://typecho.org/)**.
   2. Sau đó upload mã nguồn **Typecho Vừa Tải Về** lên hosting hoặc máy chủ
   3. Giải nén ngang hàng với thư mục **`root`** của hosting hoặc máy chủ.
@@ -34,14 +34,14 @@
   11. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về **Mã Nguồn Typecho Việt Hoá**, hãy liên hệ với mình để được hỗ trợ nhé?
   12. [Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://wapvn.top/p-contact/)**, hoặc gọi ngay `0899726669 - Em **MeoDiLac**`
 
-## **Ⅲ. Thông Tin Về Typecho Việt Hoá 1.2.1**
+## **Ⅲ. Thông Tin Về Typecho Việt Hoá 1.2.1** :cat:
 - Đây là một bộ mã nguồn cực nhẹ nhàng, giúp bạn tạo một website theo phong cách blog cá nhân.
 - Được xây dụng dựa trên *PHP* và được thiết kế để giúp bạn tạo một website theo phong cách blog cá nhân.
 - Tốc độ load nhanh, nếu so sánh với các mã nguồn tạo blog cá nhân được các wapmaster trên toàn thế giới lựa chọn thì **Typecho Việt Hoá 1.2.1** có tốc độ load khá tốt.
 - Đây là dự án *Cá nhân* được lên ý tưởng -> thực hiện -> duy trì bởi **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**.
 - **Typecho Việt Hoá 1.2.1** được phát hành và cập nhật miễn phí tại [WapVN.Top](https://wapvn.top/).
 
-## **Ⅳ. Blog WapVN.Top**
+## **Ⅳ. Blog WapVN.Top** :earth_asia:
 - Hỗ trợ những ai *đã* và *đang* sử dụng **Typecho Việt Hoá 1.2.1**.
 - Chỉ là một blog cá nhân, chia sẻ những thứ mà **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)** sưu tầm được
 - Share các bộ code, tin tức, font chữ, source php, nhạc, video meme,v.v...
@@ -49,20 +49,20 @@
 - Mình sẽ hỗ trợ những ai **đã** và **đang** sử dụng mã nguồn **Typecho Việt Hoá** mà mình đã chia sẻ tại [WapVN.Top](https://wapvn.top/) (nếu tải ở trang khác thì mình xin phép **KHÔNG HỖ TRỢ**).
 
 ## **Ⅴ. Các Bản Typecho Đang Share Tại WapVN.Top**
-- **Typecho Việt Hoá 1.2.1**
-  1. [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
-  2. [Trang chủ - WapVN.TOP](https://wapvn.top/)
-  3. Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (Vẫn còn sót trong mấy file không cần  thiết nên mình đã **KHÔNG VIỆT HOÁ** những file đó nên mình bỏ qua luôn).
-- **Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
-  1. [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
-  2. Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
-  3. Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
-- **Typecho Gốc 1.2.1**
-  1. [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
-  2. [Trang chủ - Typecho.ORG](https://typecho.org/)
-  3. Đây là bản gốc tại trang chủ [Typecho.ORG](https://typecho.org/) (Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả)
+1. **Typecho Việt Hoá 1.2.1**
+  * [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
+  * [Trang chủ - WapVN.TOP](https://wapvn.top/)
+  * Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (Vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình đã **KHÔNG VIỆT HOÁ** những file đó).
+2. **Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
+  * [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
+  * Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
+  * Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
+3. **Typecho Gốc 1.2.1**
+  * [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
+  * [Trang chủ - Typecho.ORG](https://typecho.org/)
+  * Đây là bản gốc tại trang chủ [Typecho.ORG](https://typecho.org/) (Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả)
 
-## **Ⅵ. Tính Năng Chính**
+## **Ⅵ. Tính Năng Chính** :partly_sunny:
 * Hỗ trợ các loại database dưới đây:
   - MySQL
   - SQLite
@@ -73,26 +73,27 @@
 * Tùy chỉnh URL (Bạn có thể tuỳ chỉnh *liên kết* của bài viết, các danh mục và các trang độc lập, với mức tuỳ biến URL cao ~~ngang với Wordpress~~ 😂)
 * Tuỳ chỉnh trang độc lập (Bạn có thể tuỳ biến các trang độc lập với các mục đích khác nhau)
 
-## **Ⅶ. Yêu Cầu Hệ Thống**
+## **Ⅶ. Yêu Cầu Hệ Thống** :slot_machine:
 * Phải chạy từ PHP 7.4.0 trở lên
 * Database, tương thích với những database sau đây:
   * MySQL 5.5.3 ^
   * SQLite 3.7.11 ^
   * PostgreSQL 9.1 ^
 
-## **Ⅷ. Ảnh Chụp Màn Hình**
+## **Ⅷ. Ảnh Chụp Màn Hình** :camera:
 ![Typecho Việt Hoá 1.2.1](https://wapvn.top/usr/themes/joe-vh/screenshot.png)
 
-## **Ⅸ. Liên Hệ & Hỗ Trợ**
+## **Ⅸ. Liên Hệ & Hỗ Trợ** :telephone:
 * [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
 * [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
 
-## **Ⅹ. Ủng Hộ & Donate**
-* Nếu các bạn muốn *Ủng Hộ* hoặc *Donate* cho dự án nho nhỏ này của mình thì chỉ cần ủng hộ **10k ~ chai Sting** là được rồi, mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ đâu.
-* Nhưng mếu muốn, bạn vẫn có thể *Ủng Hộ* hoặc *Donate* bằng các hình thức dưới đây:
+## **Ⅹ. Ủng Hộ & Donate** :pound:
+* Nếu các bạn muốn *Ủng Hộ* hoặc *Donate* cho dự án nhỏ này thì mình chỉ cần ủng hộ **10k ~ chai Sting** là được rồi!
+* Mình có thể tự duy trì dự án này lâu dài nên không cần các bạn ủng hộ nhiều.
+* Nhưng nếu, bạn vẫn muốn *Ủng Hộ* thì bạn vẫn có thể *Donate* bằng các hình thức dưới đây:
   1. **Ngân Hàng Ngoại Thương - Vietcombank - 9789423706 - Pham Dinh Luyen**
   2. **Ngân hàng Thương Mại Cổ phần Tiên Phong - TPBank - 00004947566 - Pham Dinh Luyen**
   3. **Ngân hàng TMCP Phương Đông OCB - LioBank - 1001001998 - Pham Dinh Luyen**
-  4. 
+  4. **ZaloPay **
 * Mình có nói là **KHÔNG CẦN MỌI NGƯỜI DONATE**, nhưng nếu được ai đó **Donate 10k** với nội dung ghi chú là *Co gang duy tri du an Viet Hoa Typecho nhe* thì quá tuyệt vời, chỉ cần vậy là động lực nhân 100 lần, và mình vẫn sẽ tiếp tục duy trì dự án nho nhỏ này lâu dài.
 
