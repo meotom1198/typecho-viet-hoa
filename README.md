@@ -33,7 +33,7 @@
 
 ### **Ⅲ. :arrow_right_hook: Cài Đặt Mã Nguồn Typecho Việt Hoá**
 
-### **1. Các bước tiến hành**
+### **1. :heavy_check_mark: Các bước tiến hành**
   1. Download **Typecho Việt Hoá 1.2.1** từ [Bài Viết: **Typecho Việt Hoá 1.2.1**](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html) hoặc Download **Typecho Gốc 1.2.1** tại **[Trang chủ Typecho.ORG](https://typecho.org/)**.
   2. Sau đó upload mã nguồn **Typecho Vừa Tải Về** lên hosting hoặc máy chủ
   3. Giải nén ngang hàng với thư mục **`root`** của hosting hoặc máy chủ.
@@ -53,7 +53,7 @@
      * **Xem thử blog**, bấm để xem thử blog mà bạn vừa cài đặt xong.
   11. Vậy là xong! Nếu gặp lỗi hoặc có thắc mắc về **Mã Nguồn Typecho Việt Hoá**, hãy liên hệ với mình để được hỗ trợ nhé?
   12. Liên hệ với **MeoDiLac** a.k.a **[Luyện Pham](https://www.facebook.com/cu.ti.9212)** tại **[ĐÂY](https://wapvn.top/p-contact/)**, hoặc gọi ngay **`0899726669 - Em MeoDiLac`**.
-### ** 2. Thông Tin Thêm Về Dự Án**
+### ** 2. :heavy_check_mark: Thông Tin Thêm Về Dự Án**
 - Đây là bộ mã nguồn cực kì nhẹ nhàng (nặng ~1mb), nhưng nó có thể giúp bạn tạo một website/blog cá nhân nhanh chóng, và dễ dàng làm quen và sử dụng.
 - Được xây dụng dựa với *PHP* và được thiết kế để giúp người dùng có thể nhanh chóng tạo được website/blog cá nhân của họ.
 - Tốc độ load nhanh, nếu so sánh với các mã nguồn tạo blog khác thì **Typecho Việt Hoá 1.2.1** có tốc độ load cực tốt.
@@ -64,15 +64,15 @@
 ---
 
 ## **Ⅳ. :ok_hand: Các Bản Typecho Đang Share Tại WapVN.Top**
-** 1. Typecho Việt Hoá 1.2.1**
+** 1.:heavy_check_mark: Typecho Việt Hoá 1.2.1**
     - [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
     - [Trang chủ - WapVN.TOP](https://wapvn.top/)
     * Đây chính là mã nguồn **Typecho Gốc 1.2.1** đã được **VIỆT HOÁ** tới mức 99,99% (vẫn còn sót trong mấy file nữa, nhưng các file đó không cần  thiết nên mình **KHÔNG VIỆT HOÁ** những file đó).
-**2. Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
+**2. :heavy_check_mark: Typecho 1.2.1 Special MOD** và **Theme Joe 7.9.9.16 Special MOD**
     * [Typecho Việt Hoá 1.2.1 - Special](https://upload.wapvn.top/7pO1hASFX5VOSeK/file)
     * Xem bài viết [Typecho 1.2.1 Special MOD + Theme Joe 7.9.9.16 Special MOD](https://wapvn.top/typecho-121-special-mod-theme-joe-799-special-mod.html)
     * Đây là bài viết chia sẻ source mà blog [WapVN.TOP](https://wapvn.top/) đang sử dụng. Bộ source mà mình chia sẻ này có đầy đủ chức năng giống nhứ blog [WapVN.TOP](https://wapvn.top/).
-**3. Typecho Gốc 1.2.1**
+**3. :heavy_check_mark: Typecho Gốc 1.2.1**
     * [Typecho Gốc 1.2.1](https://github.com/typecho/typecho/releases/latest/download/typecho.zip)
     * [Trang chủ - Typecho.ORG](https://typecho.org/)
     * Đây là bản gốc tại [Typecho.ORG](https://typecho.org/) Phiên bản này được mình gắn link download gốc nên mã nguôn **Typecho Gốc 1.2.1** chưa bị sửa chữa hay thêm bớt gì cả.
@@ -93,8 +93,8 @@
 ---
 
 ## **Ⅵ. :memo: Yêu Cầu Hệ Thống**
-* Chạy từ PHP 7.4.0 trở lên
-* Database, tương thích với các database sau đây:
+*:heavy_check_mark: Chạy từ PHP 7.4.0 trở lên
+*:heavy_check_mark: Database, tương thích với các database sau đây:
   1. MySQL 5.5.3 trở lên.
   2. SQLite 3.7.11 trở lên.
   3. PostgreSQL 9.1 trở lên.
@@ -112,8 +112,8 @@
 ---
 
 ## **Ⅶ. :telephone: Liên Hệ & Hỗ Trợ**
-* [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
-* [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
+*:heavy_check_mark: [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
+*:heavy_check_mark: [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
 
 ---
 
@@ -128,5 +128,5 @@
   5. **:heavy_check_mark: PayPal - songao.1198@gmail.com - Phạm Đình Luyện**
 * Mình có nói là **KHÔNG CẦN MỌI NGƯỜI DONATE** cho mình :disappointed_relieved:. Nhưng nếu được ai đó **Donate 10k** với nội dung ghi chú là *co gang duy tri du an Typecho Viet Hoa nhe?* thì quá tuyệt vời :wink:, chỉ cần vậy thôi là động lực X1000 lần rồi :wink:!
 * Mình sẽ tiếp tục duy trì dự án này đến khi mình không còn khả năng duy trì nữa thì mình mới bỏ dự án này nhé :stuck_out_tongue:!
-* 
+
 ---
