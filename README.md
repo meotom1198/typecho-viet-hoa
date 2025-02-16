@@ -94,17 +94,13 @@
 ---
 
 ## **Ⅵ. :memo: Yêu Cầu Hệ Thống**
-*:heavy_check_mark: Chạy từ PHP 7.4.0 trở lên
-*:heavy_check_mark: Database, tương thích với các database sau đây:
+* :heavy_check_mark: Chạy từ PHP 7.4.0 trở lên
+* :heavy_check_mark: Database, tương thích với các database sau đây:
   1. MySQL 5.5.3 trở lên.
   2. SQLite 3.7.11 trở lên.
   3. PostgreSQL 9.1 trở lên.
 
 ---
-
-
-
-
 
 
 ## **Ⅵ. :camera: Ảnh Chụp Màn Hình**
