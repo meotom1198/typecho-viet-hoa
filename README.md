@@ -64,7 +64,7 @@
 
 ---
 
-## **Ⅳ. :ok_hand: Các Bản Typecho Đang Share Tại WapVN.Top**
+## **Ⅳ. :abcd: Tổng Hợp Các Phiên Bản Typecho Có Sẵn**
 
 **1. Typecho Việt Hoá 1.2.1**
   * [Downnload Typecho Việt Hoá 1.2.1](https://wapvn.top/share-typecho-1-2-1-viet-hoa.html)
