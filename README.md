@@ -112,8 +112,9 @@
 ---
 
 ## **Ⅶ. :telephone: Liên Hệ & Hỗ Trợ**
-1. **[Ghé Thăm Blog WapVN.Top](https://wapvn.top/)**
-2. **[Liên hệ hỗ trợ](https://wapvn.top/p-contact/)**
+* **[Ghé Thăm Blog WapVN.Top](https://wapvn.top/)**
+* **[Liên hệ hỗ trợ](https://wapvn.top/p-contact/)**
+* **Đang cập nhạt...**
 
 ---
 
