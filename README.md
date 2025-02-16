@@ -10,7 +10,7 @@
 # **Ⅰ. Giới Thiệu Nhanh Về `Typecho Việt Hoá`** :cat:
 1. **Typecho Việt Hoá** *chỉ là* một **DỰ ÁN CÁ NHÂN**, do cá nhân mình (a.k.a **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) trực tiếp lên ý tưởng và thực hiện.
 2. Mục đích của dự án là *Việt Hoá* mã nguồn **Typecho** sạch sẽ, không còn tiếng ~~trung quốc~~ trong quá trình sử dụng.
-3. Để mình (a.k.a **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) mod thêm các tính năng mới cho mã nguồn **Typecho Việt Hoá 1.2.1**.
+3. Chỉ cần có thêm thời gian, để mình (a.k.a **MeoDiLac** a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) mod thêm các tính năng khác cho mã nguồn **Typecho Việt Hoá 1.2.1**.
 4. Các bản cập nhật vá lỗi dành cho mã nguồn **Typecho Việt Hoá 1.2.1** được đăng tải tại [WapVN.Top](https://wapvn.top/).
 5. Các bản **Typecho Việt Hoá** từ đây về sau, khi **VIỆT HOÁ XONG** sẽ được phát hành miễn phí tại [WapVN.Top](https://wapvn.top/) => [Mod Typecho](https://wapvn.top/mod-typecho/).
 
