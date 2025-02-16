@@ -1,9 +1,9 @@
 :arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: ![Logo Of WapVN.Top](https://cdn.jsdelivr.net/gh/meotom1198/meo.github.io@2f7e8b9aa074e1523ebfd8d3119499b8e5725b12/images/logo.png) :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
 ---
 
-:round_pushpin: **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
-:round_pushpin: **[Xem Trang Blog Demo](https://www.wapvn.top)**
-:round_pushpin: **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
+* :round_pushpin: **Cảm ơn mọi người rất nhiều!** Vì mọi người đã chọn **Mã Nguồn Typecho Việt Hoá 1.2.1** để sử dụng và xây dựng blog/website của riêng các bạn. Mình tin rằng, với các tính năng mà **Mã Nguồn Typecho Việt Hoá 1.2.1** đem lại, chắc chắn sẽ đáp ứng tốt nhu cầu của xây dựng blog/website cá nhân của mọi người! **Mã Nguồn Typecho Việt Hoá 1.2.1** có mức độ tuỳ chỉnh/tuỳ biến rất cao, **Mã Nguồn Typecho Việt Hoá 1.2.1** còn có thể tải lên và `Kích hoạt` các *Plugin* hoặc *Theme* khác để giúp **Mã Nguồn Typecho Việt Hoá 1.2.1** trở nên hay ho và đa dụng hơn nữa!
+* :round_pushpin: **[Xem Trang Blog Demo](https://www.wapvn.top)**
+* :round_pushpin: **[MeoDiLac](https://www.faecebook.com/cu.ti.9212)** (a.k.a **[Luyện Pham](https://www.faecebook.com/cu.ti.9212)**) xin cảm ơn mọi người đã ủng hộ dự án nhỏ này của mình!
 
 ---
 
