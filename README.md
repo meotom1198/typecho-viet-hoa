@@ -97,11 +97,11 @@
 ---
 
 ## **Ⅵ. :memo: Yêu Cầu Hệ Thống**
-  1. Chạy từ PHP 7.4.0 trở lên.
-  2. Database, tương thích với các database sau đây:
-     * MySQL 5.5.3 trở lên.
-     * SQLite 3.7.11 trở lên.
-     * PostgreSQL 9.1 trở lên.
+1. Chạy từ PHP 7.4.0 trở lên.
+2. Database, tương thích với các database sau đây:
+  * MySQL 5.5.3 trở lên.
+  * SQLite 3.7.11 trở lên.
+  * PostgreSQL 9.1 trở lên.
 
 ---
 
@@ -112,8 +112,8 @@
 ---
 
 ## **Ⅶ. :telephone: Liên Hệ & Hỗ Trợ**
-* **[Ghé Thăm Blog WapVN.Top](https://wapvn.top/)** 
-* **[Liên hệ hỗ trợ](https://wapvn.top/p-contact/)**
+1. **[Ghé Thăm Blog WapVN.Top](https://wapvn.top/)**
+2. **[Liên hệ hỗ trợ](https://wapvn.top/p-contact/)**
 
 ---
 
