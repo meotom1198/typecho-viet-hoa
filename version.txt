@@ -1,0 +1,2 @@
+- Muốn check version à???
+- Hãy vào thư mục "\var\Typecho\Common.php", và tìm dòng thứ 171 để check version.
