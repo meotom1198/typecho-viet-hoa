@@ -94,11 +94,11 @@
 ---
 
 ## **Ⅵ. :memo: Yêu Cầu Hệ Thống**
-* :heavy_check_mark: Chạy từ PHP 7.4.0 trở lên
-* :heavy_check_mark: Database, tương thích với các database sau đây:
-  1. MySQL 5.5.3 trở lên.
-  2. SQLite 3.7.11 trở lên.
-  3. PostgreSQL 9.1 trở lên.
+  * Chạy từ PHP 7.4.0 trở lên.
+  * Database, tương thích với các database sau đây:
+    1. MySQL 5.5.3 trở lên.
+    2. SQLite 3.7.11 trở lên.
+    3. PostgreSQL 9.1 trở lên.
 
 ---
 
@@ -127,3 +127,9 @@
 * Mình sẽ tiếp tục duy trì dự án này đến khi mình không còn khả năng duy trì nữa thì mình mới bỏ dự án này nhé :stuck_out_tongue:!
 
 ---
+
+:arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:  :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
+
+# :arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: ️εɳ∂เɳɠ σƒ รเƭε :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
+
+:arrow_forward: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia:  :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :earth_asia: :arrow_backward:
