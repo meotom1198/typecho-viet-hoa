@@ -109,8 +109,8 @@
 ---
 
 ## **Ⅶ. :telephone: Liên Hệ & Hỗ Trợ**
-*:heavy_check_mark: [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
-*:heavy_check_mark: [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
+* :heavy_check_mark: [Ghé Thăm Blog WapVN.Top](https://wapvn.top/)
+* :heavy_check_mark: [Liên hệ hỗ trợ](https://wapvn.top/p-contact/)
 
 ---
 
